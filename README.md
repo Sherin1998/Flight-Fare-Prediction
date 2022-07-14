@@ -7,8 +7,8 @@
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
+  * Tools Used(#bug---feature-request)
+ 
 
 
 ## Demo
@@ -62,7 +62,9 @@ Data link :https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-m
 
 
 ##New Evnvironment Creation
+
 conda create -n flightpricepred python=3.6
+
 activate flightpricepred 
 
 ##Dependencies creation

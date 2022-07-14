@@ -68,6 +68,7 @@ activate flightpricepred
 ##Dependencies creation
 
 cd file location
+
 pip freeze>requiremnets.txt
 
 

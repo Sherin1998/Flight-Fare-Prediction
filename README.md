@@ -7,7 +7,7 @@
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * Tools Used(#bug---feature-request)
+  * [Tools Used](#bug---feature-request)
  
 
 

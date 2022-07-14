@@ -5,4 +5,3 @@ scikit_learn==1.1.1
 numpy
 requests==2.24.0
 gunicorn
-jinja
